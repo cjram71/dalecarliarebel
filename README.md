@@ -28,3 +28,4 @@ The former long single-page experience is reorganised into focused pages for Hom
 2. Replace or supplement vector graphics with authorised team photography when durable local files are available.
 3. Update the Swedish site with reciprocal page-level equivalents if separate Swedish pages are created.
 4. Review all club, insurance and equipment details annually.
+The Agent Foundry end-to-end infrastructure test has been successfully completed.
