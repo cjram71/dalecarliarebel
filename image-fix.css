@@ -53,3 +53,6 @@
     object-position: 50% 42% !important;
   }
 }
+.hero-photo > img, .page-team-photo {
+  max-height: none;
+}
